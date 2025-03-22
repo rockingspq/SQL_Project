@@ -8,6 +8,8 @@ This project analyzes **Yelp business** and **review data** to extract valuable 
 
 ## Dataset
 
+Link to downlaod the dataset: https://business.yelp.com/data/resources/open-dataset/
+
 The project uses two main tables:
 
 - **tbl_yelp_business**: Contains business-related information, including `business_id`, `name`, `city`, and `categories`.
